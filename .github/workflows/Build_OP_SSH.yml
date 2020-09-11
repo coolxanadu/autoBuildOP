@@ -1,6 +1,6 @@
 # modify @2020-09-11
 
-name: Build_OP
+name: Build_OP*86
 
 on:
   push:
